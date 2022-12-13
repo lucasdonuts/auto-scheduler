@@ -70,3 +70,11 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem 'devise', '~> 4.8', '>= 4.8.1'
+
+gem 'active_model_serializers', '~> 0.10.2'
+
+gem 'activerecord-reset-pk-sequence'
+
+gem 'faker'
